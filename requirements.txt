@@ -1,0 +1,8 @@
+torch
+numpy
+torchaudio
+soundfile
+sounddevice
+TTS
+noisereduce
+pydub
