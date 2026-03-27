@@ -173,7 +173,3 @@ git push -u origin main
 - Runtime assets `2.wav`, `3.wav` produced locally by tests (do not commit)
 
 ---
-
-## Contact
-
-Project maintained by the user "suraj" in local workspace `C:\Suraj\code\python\clone`.
