@@ -1,8 +1,8 @@
-torch
-numpy
-torchaudio
-soundfile
-sounddevice
-TTS
-noisereduce
-pydub
+torch==2.11.0
+numpy==1.22.0
+torchaudio==2.11.0+cpu
+soundfile==0.13.1
+sounddevice==0.5.5
+TTS==0.22.0
+noisereduce==3.0.3
+pydub==0.25.1
